@@ -6,7 +6,7 @@
 # from telebot import types
 # from config import decouple
 #
-#
+# Тест
 # TOKEN = decouple.config('KEY')
 # bot = telebot.TeleBot(TOKEN)
 #
